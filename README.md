@@ -8,39 +8,45 @@ Welcome to my online showcase! I'm [Your Name], a dedicated and innovative [Your
 
 <h2>Home Page:</h2>
 <ul>
-<li>Logo & Name: A professionally designed logo or your full name, placed at the top-left corner for brand recognition.</li>
-<li>Navigation Menu: An easily navigable menu with links to key sections such as Home, About Me, Portfolio, Services, Blog, and Contact.</li>
+<li><b>Logo & Name:</b> A professionally designed logo or your full name, placed at the top-left corner for brand recognition.</li>
+<li><b>Navigation Menu:</b> An easily navigable menu with links to key sections such as Home, About Me, Portfolio, Services, Blog, and Contact.</li>
 </ul>
 
 <h2>About Me:</h2>
 <ul>
-<li>Personal Introduction: A brief but engaging narrative about yourself, your background, and what motivates you as a creative professional.</li>
-<li>Skills & Expertise: A section highlighting your core skills and areas of expertise, possibly presented in a visually appealing manner.</li>
+<li><b>Personal Introduction:</b> A brief but engaging narrative about yourself, your background, and what motivates you as a creative professional.</li>
+<li><b>Skills & Expertise:</b> A section highlighting your core skills and areas of expertise, possibly presented in a visually appealing manner.</li>
 <li>Work Philosophy: A statement describing your approach to your work and what sets you apart from others in your field.</li>
 </ul>
 
 
-Services:
-Service Offerings: A comprehensive list of the services you provide, with detailed descriptions and, if applicable, pricing information.
-Testimonials: Quotes or reviews from satisfied clients or collaborators to build trust and credibility.
-
-Project:
-
-Project Showcase: A visually appealing gallery or grid layout featuring your best projects, each accompanied by a description, images, and possibly video demos.
-Filtering & Sorting: User-friendly filters or categories to help visitors easily browse through your diverse portfolio.
-
-Contact:
-
-Contact Form: An easy-to-use contact form for inquiries and project requests.
-Social Links: Links to your social media profiles for additional points of contact and networking opportunities.
-Footer:
-
-Copyright & Privacy: Legal information and a copyright notice.
-Quick Links: Handy links to key sections, helping visitors navigate your site more efficiently.
-Remember to keep the design clean, user-friendly, and visually appealing, ensuring that your portfolio reflects your unique personality and style as a creative professional.
+<h2>Services:</h2>
+<ul>
+<li><b>Service Offerings:</b> A comprehensive list of the services you provide, with detailed descriptions and, if applicable, pricing information</li>.
+<li><b>Testimonials:</b> Quotes or reviews from satisfied clients or collaborators to build trust and credibility.</li>
+</ul>
 
 
-<br><br>
+<h2>Project:</h2>
+<ul>
+<li><b>Project Showcase:</b> A visually appealing gallery or grid layout featuring your best projects, each accompanied by a description, images, and possibly video demo in the <a href="https://www.linkedin.com/in/manoranjansingh508/"></a>.</li>
+<li><b>Filtering & Sorting:</b> User-friendly filters or categories to help visitors easily browse through your diverse portfolio.</li>
+</ul>
+
+<h2>Contact:</h2>
+<ul>
+<li><b>Contact Form:</b> An easy-to-use contact form for inquiries and project requests.</li>
+<li><b>Social Links:</b> Links to your social media profiles for additional points of contact and networking opportunities.</li>
+</ul>
+
+
+<h2>Footer:</h2>
+<ul>
+<li><b>Copyright & Privacy:</b> Legal information and a copyright notice.</li>
+<li><b></b>Quick Links:</b> Handy links to key sections, helping visitors navigate your site more efficiently.</li>
+</ul>
+
+<h2>Screenshots:</h2>
 <h3>Home Page:-</h3>
 
 ![Home Page](https://github.com/Manoranjan492/MyPortfolioWeb/assets/119121227/f8523222-de78-4b68-a425-3f4b7ec99ea5)
